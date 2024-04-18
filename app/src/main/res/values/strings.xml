@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReaganAnroidProject</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_my_images">MyImages</string>
+    <string name="title_activity_image2">Image2Activity</string>
+    <string name="title_activity_image3">Image3Activity</string>
+    <string name="title_activity_my_chairs">MyChairsActivity</string>
+</resources>
